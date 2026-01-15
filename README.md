@@ -1,4 +1,3 @@
-# Agile-Workshop-Game
 
 # 🎮 Electronic Agile Game Dashboard
 
@@ -71,23 +70,6 @@ The dashboard uses a sophisticated scoring algorithm that:
 
 ## 🎲 How to Play the Game
 
-### Setup (Before Game Starts)
-
-1. **Gather Materials**:
-   - 40-100 tennis balls (or similar)
-   - Large container/bucket for balls
-   - The Electronic Agile Game Dashboard
-   - Team of 5-20 players
-
-2. **Explain the Rules**:
-   - Balls must pass through **every team member**
-   - Balls must have **"air time"** between each person (no hand-to-hand passing)
-   - The ball must **return to the starting person**
-   - If a ball is dropped, it's marked as a **defect**
-   - You have **2 minutes** per iteration
-
-### Game Flow (5 Iterations)
-
 #### Planning Phase (2 min for Iteration 1, 1 min for others)
 1. **Click "Start Planning Timer"** on the dashboard
 2. Team discusses and decides their estimate
@@ -97,7 +79,7 @@ The dashboard uses a sophisticated scoring algorithm that:
 #### Execution Phase (2 minutes)
 1. **Click "Start 2-Minute Counting"** - countdown begins with Mario Kart-style animation
 2. Team starts passing balls through the system
-3. Dashboard automatically counts balls (via button press) or can be manually incremented
+3. Dashboard automatically counts balls (via IR sensors) 
 4. **Countdown alerts** at 60, 45, 30, 15, and 10 seconds
 5. **Alarm sounds** when time is up - stop immediately
 
