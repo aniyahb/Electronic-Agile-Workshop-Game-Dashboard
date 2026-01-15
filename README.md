@@ -10,6 +10,13 @@
 ---
 The **Electronic Agile Game** is an interactive educational tool designed to teach teams about Agile principles, sprint planning, estimation accuracy, and continuous improvement. This system provides a digital dashboard for facilitating the classic "Ball Point Game" (also known as the "Agile Ball Game"), which demonstrates key Agile and Scrum concepts through hands-on experience.
 
+### 🎥 Walkthrough Video
+
+For a complete demonstration of the system in action, watch the walkthrough video:
+
+**📹 [Watch the Electronic Agile Game Walkthrough](https://psu.mediaspace.kaltura.com/media/1_q34btkme)**
+
+---
 ## 🎯 Purpose & Learning Objectives
 
 ### What is the Ball Point Game?
