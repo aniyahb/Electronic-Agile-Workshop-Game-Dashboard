@@ -3,6 +3,11 @@
 
 ## Overview
 
+**Note:** This repository contains the **display software portion** of the **Electronic Agile Workshop Game**, a Penn State Fall 2025 Capstone Showcase project. For the complete project including hardware design, mechanical components, and full system documentation, please visit:
+
+**🔗 [Full Project: Electronic Agile Workshop Game - Penn State Capstone Showcase](https://sites.psu.edu/lfshowcasefa25/2025/12/08/electronic-agile-workshop-game-2/)**
+
+---
 The **Electronic Agile Game** is an interactive educational tool designed to teach teams about Agile principles, sprint planning, estimation accuracy, and continuous improvement. This system provides a digital dashboard for facilitating the classic "Ball Point Game" (also known as the "Agile Ball Game"), which demonstrates key Agile and Scrum concepts through hands-on experience.
 
 ## 🎯 Purpose & Learning Objectives
