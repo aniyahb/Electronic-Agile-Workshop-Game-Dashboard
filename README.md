@@ -82,6 +82,18 @@ The dashboard uses a sophisticated scoring algorithm that:
 
 ## 🎲 How to Play the Game
 
+#### RULES
+1. Form a circle: All team members stand in a circle around the ball pit
+2. Every person must touch: Each ball must be touched by every single team member before it's complete
+3. Balls must be tossed: Balls must have air time between each pass - no hand-to-hand passing allowed
+4. No passing to neighbors: You cannot pass to the person directly next to you (left or right) - you must toss across the circle
+5. Completion: A ball is only "complete" when it goes through the funnel after every person has touched it
+6. Dropped balls are "defects" 
+7. Balls that are still in-hand when timer ends are "in-progress balls" 
+
+#### Number of Players 
+1. Enter the number of players on the dashboard to begin
+
 #### Planning Phase (2 min for Iteration 1, 1 min for others)
 1. **Click "Start Planning Timer"** on the dashboard
 2. Team discusses and decides their estimate
